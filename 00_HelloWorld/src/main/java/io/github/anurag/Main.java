@@ -3,8 +3,8 @@ package io.github.anurag;
 
 public class Main {
 // this is main class everything in java is class
-// class name will alway match the class file name 
-// example - 
+// class name will alway match the class file name
+// example -
 // Sum.java class file name will have class name - public class Sum
 
     public static void main(String[] args){
