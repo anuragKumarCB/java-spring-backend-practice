@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args){
 //        this is main method or function every java program execute the main method
-        String greeting = "Hello Bot, memorise it!";
+        String greeting = "Hello World!";
 //        string in java is not a data type but a class
         System.out.println(greeting);
 
