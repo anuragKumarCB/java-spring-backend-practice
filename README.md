@@ -37,14 +37,5 @@ Fundamentals are treated as the foundation for building resilient distributed sy
 Organized by **concepts**, from language internals to enterprise architecture:
 
 ```text
-01_java_fundamentals/
-02_collections_and_generics/
-03_concurrency_and_multithreading/
-04_jvm_internals_and_gc/
-05_design_patterns_and_solid/
-06_spring_core_and_di/
-07_spring_boot_rest_apis/
-08_jpa_hibernate_and_data/
-09_microservices_and_messaging/
-10_performance_and_profiling/
+00_HelloWorld/
 ...
