@@ -3,17 +3,17 @@ package io.github.anurag;
 
 public class Main {
 // this is main class everything in java is class
-// class name will alway match the class file name
+// class name will always match the class file name
 // example -
 // Sum.java class file name will have class name - public class Sum
 
     public static void main(String[] args){
 //        this is main method (or function in other languages) every java program execute the main method
         String greeting = "Hello World!";
-//        string in java is not a primitve data type but a class
+//        string in java is not a primitive data type but a class
         System.out.println(greeting);
 
-//        print start for each character underneath
+//        print a decorative line using * underneath the hello world with the length of the message
         for (int i = 0; i < greeting.length(); i++) {
             System.out.print("*");
         }
